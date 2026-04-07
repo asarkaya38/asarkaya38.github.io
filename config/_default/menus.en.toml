@@ -1,0 +1,29 @@
+[[main]]
+name = "Advisory"
+pageRef = "advisory"
+weight = 20
+
+[[main]]
+name = "Technical Insights"
+pageRef = "insights"
+weight = 30
+
+[[main]]
+name = "Hardware Gallery"
+pageRef = "gallery"
+weight = 40
+
+[[main]]
+name = "Publications"
+pageRef = "publications"
+weight = 50
+
+[[footer]]
+name = "Technical Insights"
+pageRef = "insights"
+weight = 10
+
+[[footer]]
+name = "Gallery"
+pageRef = "gallery"
+weight = 20

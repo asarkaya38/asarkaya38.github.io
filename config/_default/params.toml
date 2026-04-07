@@ -1,0 +1,72 @@
+# Theme: https://blowfish.page/docs/configuration/
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+enableStructuredBreadcrumbs = true
+enableA11y = false
+
+mainSections = ["insights"]
+
+disableImageOptimization = false
+disableTextInHeader = false
+
+highlightCurrentMenuArea = true
+smartTOC = true
+
+[header]
+layout = "fixed"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "hero"
+homepageImage = "img/hero-bg.svg"
+showRecent = true
+showRecentItems = 5
+showMoreLink = true
+showMoreLinkDest = "insights"
+cardView = true
+cardViewScreenWidth = false
+disableHeroImageFilter = false
+
+[article]
+showDate = true
+showViews = false
+showLikes = false
+showAuthor = true
+showHero = true
+heroStyle = "background"
+showBreadcrumbs = true
+showTableOfContents = true
+showReadingTime = true
+showRelatedContent = true
+relatedContentLimit = 6
+showTaxonomies = true
+sharingLinks = ["linkedin", "email"]
+
+[list]
+showHero = true
+heroStyle = "background"
+showSummary = true
+showCards = true
+cardView = true
+orderByWeight = false
+groupByYear = true
+
+[taxonomy]
+showHero = true
+heroStyle = "background"
+cardView = false
+
+[term]
+showHero = true
+heroStyle = "background"
+cardView = true

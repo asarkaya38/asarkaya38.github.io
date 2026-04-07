@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Ahmet Semi Asarkaya"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "img/logo-mark.svg"
+description = "Embodied AI research, humanoids, VLA models, and independent technical advisory."
+
+[params.author]
+name = "Ahmet Semi Asarkaya"
+email = "asarkaya603@gmail.com"
+image = "img/avatar-placeholder.svg"
+imagequality = "96"
+headline = "Scaling Embodied AI · Senior AI Research Engineer, Agility Robotics"
+bio = "Research and deployment at the intersection of humanoid platforms, robot learning, and rigorous technical due diligence."
+links = [
+  { email = "asarkaya603@gmail.com" },
+  { linkedin = "https://www.linkedin.com/in/ahmet-semi-asarkaya" },
+  { "google-scholar" = "https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID" },
+  { github = "https://github.com/asarkaya603" },
+]
