@@ -17,7 +17,12 @@ buildFuture = false
 pagerSize = 12
 
 [imaging]
-anchor = "Center"
+anchor = 'Center'
+
+# Image cache location recommended for GitHub Actions builds
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [taxonomies]
 tag = "tags"
