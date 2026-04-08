@@ -14,7 +14,7 @@ description = "Embodied AI research, humanoids, VLA models, and independent tech
 [params.author]
 name = "Ahmet Semi Asarkaya"
 email = "asarkaya603@gmail.com"
-image = "img/avatar-placeholder.svg"
+image = "static/img/PP.JPG"
 imagequality = "96"
 headline = "Scaling Embodied AI · Senior AI Research Engineer, Agility Robotics"
 bio = "Research and deployment at the intersection of humanoid platforms, robot learning, and rigorous technical due diligence."
