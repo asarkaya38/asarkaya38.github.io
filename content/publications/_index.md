@@ -15,4 +15,4 @@ Earlier work focused on **safe reinforcement learning** and **temporal-logic-con
 
 ### Note
 
-Ongoing industry research in embodied AI is often **not publicly listed** here; this page reflects **archival academic** contributions. For a fuller picture of current work, see [Technical Insights](/insights/) and professional profiles linked in the site header.
+Ongoing industry research in embodied AI is often not publicly listed here; this page reflects archival academic contributions.

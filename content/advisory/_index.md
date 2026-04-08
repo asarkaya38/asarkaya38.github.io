@@ -4,7 +4,7 @@ description: Due diligence, maturity assessments, and strategic advisory for emb
 slug: advisory
 ---
 
-I advise venture and growth investors, corporate strategy teams, and expert networks on **embodied AI and robotics**: what is technically plausible on a five-year horizon, what is merely noisy demos, and where data, evaluation, and hardware–software coupling become the real constraints.
+I advise venture capital, private equity, corporate strategy teams, and expert networks on **embodied AI and robotics**: what is technically plausible on a short-mid-long horizon, what is merely noisy demos, and where data, evaluation, and hardware–software coupling become the real constraints.
 
 ### Disclaimer
 
@@ -14,17 +14,23 @@ I advise venture and growth investors, corporate strategy teams, and expert netw
 
 ### How I work
 
-Engagements are structured for decision quality: crisp technical questions, traceable evidence, and explicit separation between **research upside** and **deployment risk**. I am comfortable going deep on learning stacks, world models, and data flywheels, then zooming out to organizational readiness and capital intensity.
+Engagements are structured for decision quality: crisp technical questions, traceable evidence, and explicit separation between **research upside** and **deployment risk**. I am comfortable going deep on learning stacks and data flywheels, then zooming out to organizational readiness and capital intensity.
 
 ### Offerings
 
-- **Technical due diligence** — Architecture, data and evaluation maturity, sim-to-real credibility, and team fit for a stated thesis.  
-- **Maturity workshops** — Cross-functional sessions to align product, research, and field teams on metrics, failure taxonomy, and release gates.  
-- **Strategic advisory** — Ongoing perspective on roadmap priorities, benchmarking choices, and technical risk as platforms scale.
+- **Technical due diligence**: Architecture, data and evaluation maturity, and team fit for a stated thesis.  
+- **Maturity workshops**: Cross-functional sessions designed to align product, research, and field teams. Focus on establishing standardized metrics, failure taxonomies, and hardware–software release gates.  
+- **Strategic advisory**: Continuous guidance on roadmap prioritization, benchmarking methodology, and mitigating technical risks as robotic platforms scale from lab to floor.
 
-### Client channels (expert networks)
+### Engagement Channels
 
-Representative channels where I have supported diligence and expert calls include **GLG**, **AlphaSights**, **Tegus**, **Coleman**, and **VisasQ**—alongside direct work with investment firms. Specific engagements are confidential; this list describes **categories of access**, not endorsements by those organizations.
+My consulting work is primarily split between direct strategic advisory for venture capital and private equity firms and targeted technical diligence through premier expert networks.
+
+**Direct Engagements:** Providing deep-dive technical due diligence and long-term roadmap advisory for firms investing in the AI and robotics frontier.
+
+**Expert Networks:** A vetted contributor on platforms including **GLG**, **AlphaSights**, **VisasQ**, **Coleman**, and **Tegus**, supporting institutional investors with rapid-response industry insights.
+
+**Note:** All engagements are subject to strict confidentiality and non-disclosure agreements.
 
 ### Contact
 
