@@ -14,13 +14,13 @@ description = "Embodied AI research, humanoids, VLA models, and independent tech
 [params.author]
 name = "Ahmet Semi Asarkaya"
 email = "asarkaya603@gmail.com"
-image = "static/img/PP.JPG"
+image = "static/img/pp.jpg"
 imagequality = "96"
 headline = "Scaling Embodied AI · Senior AI Research Engineer, Agility Robotics"
 bio = "Research and deployment at the intersection of humanoid platforms, robot learning, and rigorous technical due diligence."
 links = [
   { email = "asarkaya603@gmail.com" },
-  { linkedin = "https://www.linkedin.com/in/ahmet-semi-asarkaya" },
-  { "google-scholar" = "https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID" },
-  { github = "https://github.com/asarkaya603" },
+  { linkedin = "https://www.linkedin.com/in/asasarkaya/" },
+  { "google-scholar" = "https://scholar.google.com/citations?user=dcQZU6oAAAAJ&hl" },
+  { github = "https://github.com/asarkaya38" },
 ]
