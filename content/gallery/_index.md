@@ -7,10 +7,18 @@ This is a small, personal set of photos: me next to machines I have run, fixed, 
 
 ### Snapshots
 
+
+{{< figure
+    src="/media/gifs/digit.jpg"
+    alt="Selfie beside an earlier Agility Digit humanoid outdoors"
+    caption="**Digit**, made-for-work!"
+    class="max-w-2xl mx-auto"
+>}}
+
 {{< figure
     src="/media/gifs/Digit_selfie_old.jpg"
     alt="Selfie beside an earlier Agility Digit humanoid outdoors"
-    caption="📸 Early **Digit** selfie. Still counts as field work."
+    caption="📸 Early **Digit** selfie."
     class="max-w-2xl mx-auto"
 >}}
 
