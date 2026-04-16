@@ -1,5 +1,5 @@
 ---
-title: Hardware Gallery
+title: Gallery
 description: "Field and lab snapshots: me with robots and platforms from years of embodied AI and aerial work."
 ---
 
@@ -7,6 +7,13 @@ This is a small, personal set of photos: me next to machines I have run, fixed, 
 
 ### Snapshots
 
+
+{{< figure
+    src="/media/gifs/walle_me.JPG"
+    alt="Selfie beside an earlier Agility Digit humanoid outdoors"
+    caption="A memory from **YC's Robohack** where I served as a mentor."
+    class="max-w-2xl mx-auto"
+>}}
 
 {{< figure
     src="/media/gifs/digit.jpg"

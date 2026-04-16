@@ -9,7 +9,7 @@ pageRef = "insights"
 weight = 30
 
 [[main]]
-name = "Hardware Gallery"
+name = "Gallery"
 pageRef = "gallery"
 weight = 40
 

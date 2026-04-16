@@ -20,4 +20,4 @@ Technical due diligence, maturity workshops, and strategic advisory for VCs/PEs 
 
 ### On the horizon
 
-Short-form technical notes will live under [Technical Insights](/insights/). Some moments from my past are in the [Hardware Gallery](/gallery/). Peer-reviewed work from the aerospace engineer (aerial robotics!) era is summarized under [Publications](/publications/).
+Short-form technical notes will live under [Technical Insights](/insights/). Some moments from my past are in the [Gallery](/gallery/). Peer-reviewed work from the aerospace engineer (aerial robotics!) era is summarized under [Publications](/publications/).
