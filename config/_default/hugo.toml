@@ -10,6 +10,8 @@ enableRobotsTXT = true
 enableEmoji = true
 summaryLength = 30
 
+googleAnalytics = "G-45XNBVM5QB"
+
 buildDrafts = false
 buildFuture = false
 
