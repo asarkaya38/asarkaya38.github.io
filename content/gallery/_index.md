@@ -79,7 +79,7 @@ This is a small, personal set of photos: me next to machines I have run, fixed, 
 
 
 {{< figure
-    src="/media/gifs/crazy_flies.JPG"
+    src="/media/gifs/crazy_flies.jpg"
     alt="Hands holding Crazyflie micro-quadcopters"
     caption="🛸 **Crazyflie** swarms from the aerial robotics chapter. Small airframes, big control problems."
     class="max-w-2xl mx-auto"
