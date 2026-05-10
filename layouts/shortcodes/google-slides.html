@@ -1,0 +1,21 @@
+{{ $src := .Get "src" }}
+{{ $title := .Get "title" | default .Page.Title }}
+{{ $aspectRatio := .Get "aspectRatio" | default "1440 / 839" }}
+
+{{ if not $src }}
+  {{ errorf "google-slides shortcode on %q requires a src parameter" .Page.File.Path }}
+{{ end }}
+
+<div class="not-prose my-8 overflow-hidden rounded-2xl border border-neutral-200 bg-neutral-950 shadow-2xl dark:border-neutral-700">
+  <iframe
+    src="{{ $src }}"
+    title="{{ $title }}"
+    class="block w-full"
+    style="aspect-ratio: {{ $aspectRatio | safeCSS }};"
+    frameborder="0"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true"
+    loading="lazy">
+  </iframe>
+</div>

@@ -1,0 +1,5 @@
+{{ $readingTime := .Params.presentationReadingTime | default .ReadingTime }}
+<span title="{{ i18n "article.reading_time_title" }}">
+  {{- i18n "article.reading_time" (dict "Count" $readingTime) | markdownify | emojify -}}
+</span>
+{{- /* Trim EOF */ -}}
