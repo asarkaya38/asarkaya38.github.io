@@ -13,7 +13,7 @@ presentationReadingTime: 35
 Slides from my keynote at Robotics & World Models Reading Club 07, hosted by Saturday Robotics in Los Altos. The talk follows the Dreamer lineage from latent planning in PlaNet to scalable generative world models for control in DreamerV4.
 {{< /lead >}}
 
-[Event page](https://luma.com/srhe0vuo) · [Open slides](https://docs.google.com/presentation/d/e/2PACX-1vRWdBhnX4PpXrobAm5XCDtcUzMsk93O-T7p75UlqB0C5h_mqGDZ5pBOF8Qb9HnxRRFJuGUnefUzRHob/pub?start=false&loop=false&delayms=60000) · [Download the PDF](dreamer-v4-reading-club-07.pdf)
+[Event page](https://luma.com/srhe0vuo) · [Open slides](https://docs.google.com/presentation/d/e/2PACX-1vRWdBhnX4PpXrobAm5XCDtcUzMsk93O-T7p75UlqB0C5h_mqGDZ5pBOF8Qb9HnxRRFJuGUnefUzRHob/pub?start=false&loop=false&delayms=60000) · [Download the PDF](dreamer-v4-reading-club-07.pdf) · [Watch on YouTube](https://www.youtube.com/watch?v=HbSclSRyxu8)
 
 {{< google-slides src="https://docs.google.com/presentation/d/e/2PACX-1vRWdBhnX4PpXrobAm5XCDtcUzMsk93O-T7p75UlqB0C5h_mqGDZ5pBOF8Qb9HnxRRFJuGUnefUzRHob/pubembed?start=false&loop=false&delayms=60000" title="Dreamer's Journey: From PlaNet to DreamerV4" >}}
 

@@ -12,6 +12,7 @@ mainSections = ["insights"]
 
 disableImageOptimization = false
 disableTextInHeader = false
+hotlinkFeatureImage = true
 
 highlightCurrentMenuArea = true
 smartTOC = true

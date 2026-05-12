@@ -9,8 +9,8 @@ pageRef = "insights"
 weight = 30
 
 [[main]]
-name = "Gallery"
-pageRef = "gallery"
+name = "Talks"
+pageRef = "talks"
 weight = 40
 
 [[main]]
@@ -18,12 +18,22 @@ name = "Publications"
 pageRef = "publications"
 weight = 50
 
+[[main]]
+name = "Gallery"
+pageRef = "gallery"
+weight = 60
+
 [[footer]]
 name = "Technical Insights"
 pageRef = "insights"
 weight = 10
 
 [[footer]]
+name = "Talks"
+pageRef = "talks"
+weight = 20
+
+[[footer]]
 name = "Gallery"
 pageRef = "gallery"
-weight = 20
+weight = 30
