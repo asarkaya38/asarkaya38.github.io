@@ -8,7 +8,7 @@ enableCodeCopy = true
 enableStructuredBreadcrumbs = true
 enableA11y = false
 
-mainSections = ["insights"]
+mainSections = ["insights", "talks"]
 
 disableImageOptimization = false
 disableTextInHeader = false

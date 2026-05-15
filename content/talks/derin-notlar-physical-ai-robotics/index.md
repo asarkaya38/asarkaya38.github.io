@@ -6,7 +6,7 @@ summary: "Podcast conversation (Turkish audio, English subtitles on YouTube) on 
 tags: ["robotics", "physical AI", "LLMs", "podcast", "humanoid robots"]
 categories: ["Embodied AI"]
 showWordCount: false
-featureimage: "/img/talks/derin-notlar-physical-ai-en.jpg"
+featureimage: "img/talks/derin-notlar-physical-ai-en.jpg"
 ---
 
 {{< lead >}}
