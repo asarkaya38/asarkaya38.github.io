@@ -9,7 +9,7 @@ pageRef = "insights"
 weight = 30
 
 [[main]]
-name = "Talks"
+name = "Talks & Events"
 pageRef = "talks"
 weight = 40
 
@@ -29,7 +29,7 @@ pageRef = "insights"
 weight = 10
 
 [[footer]]
-name = "Talks"
+name = "Talks & Events"
 pageRef = "talks"
 weight = 20
 
